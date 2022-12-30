@@ -13,15 +13,15 @@
     * Conclude that most Americans either choose to work full time or are unemployed. Part time work is very elastic
 *** 
 * Replication of an research article on **"Modelling the Pattern of Structural Change in U.S. Meat Demand"** by Giancarlo Moschini and Karl D. Meilke
- * **Goals of this project:  empirically test for a structural change in the demand for meat in the US and analyse its' nature **
-  * Calulate normalized expenditure using log prices and budget shares
-  * Estimate the first difference model using OLS and SUR. Compare results 
-  * Understand the significance of restrictions introduced in the restricted SUR model
-  * Regress the model on first difference variables
-  * Test the Null Hypothesis that there is no structural change
-  * Conclude that there is no structural change in the model because under the unrestricted model, the new parameter ℎ𝑡, which is no transitive, gave a more correct estimation
+     *  **Goals of this project:  empirically test for a structural change in the demand for meat in the US and analyse its' nature**
+        * Calulate normalized expenditure using log prices and budget shares
+        * Estimate the first difference model using OLS and SUR. Compare results 
+        * Understand the significance of restrictions introduced in the restricted SUR model
+        * Regress the model on first difference variables
+        * Test the Null Hypothesis that there is no structural change
+        * Conclude that there is no structural change in the model because under the unrestricted model, the new parameter ℎ𝑡, which is no transitive, gave a more correct estimation
 
 ***
 * Replication of **"Modelling trends in food market integration: Method and an application to Tanzanian maize markets"** by Author: Bjorn Van Campenhout
- * **Goals of this project**:
+   *  **Goals of this project**:
   *
