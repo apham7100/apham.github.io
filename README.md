@@ -11,6 +11,7 @@
     * Caluculate "𝑧̃", which  estimates the flow value of non work time relative to market wage
     * Conclude that labor supply = highly elastic at low hours of labor and inelastic at the intensive margin
     * Conclude that most Americans either choose to work full time or are unemployed. Part time work is very elastic
+    * Develop policy implications from these results
 *** 
 * Replication of an research article on **"Modelling the Pattern of Structural Change in U.S. Meat Demand"** by Giancarlo Moschini and Karl D. Meilke
      *  **Goals of this project:  empirically test for a structural change in the demand for meat in the US and analyse its' nature**
@@ -24,4 +25,11 @@
 ***
 * Replication of **"Modelling trends in food market integration: Method and an application to Tanzanian maize markets"** by Author: Bjorn Van Campenhout
    *  **Goals of this project**:
-  *
+      * Calculate the correlation of price difference across markets
+      * Use loops to calculate AR1 models across each market
+      * Calculate the half life for each village  
+      * Estimate the TAR model
+      * Visualize prices changes over time for each trade route 
+      * Use this data to conclude which vilalge is least integrated 
+      * Conclude that market integration relies on distance, cost of trasnportation, road quality, and frequency of policy checks
+      * Develop policy implications from these results
