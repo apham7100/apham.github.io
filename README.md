@@ -1,7 +1,7 @@
 # apham.github.io
 
 ## Projects:
-* Final Project Replication of an article titled, **"Labor Supply and the Value of Non-Work Time: Experimental Estimates from the Field"** by researchers Alexandre Mas and Amanda Pallais
+* ### Final Project Replication of an article titled, **"Labor Supply and the Value of Non-Work Time: Experimental Estimates from the Field"** by researchers Alexandre Mas and Amanda Pallais
   * **Goals of this project: Measure the relationship between Labor Supply and Effective Wage and quantify the value of free time**
     * Conduct logit regressions to calculate the Marginal Value of Non-Work Time across individual workers with different hours of labor ( $\overline{M V T_{h}}$ )
     * Calculate MVT elasticities over time
@@ -13,7 +13,7 @@
     * Conclude that most Americans either choose to work full time or are unemployed. Part time work is very elastic
     * Develop policy implications from these results
 *** 
-* Replication of an research article on **"Modelling the Pattern of Structural Change in U.S. Meat Demand"** by Giancarlo Moschini and Karl D. Meilke
+* ###Replication of an research article on **"Modelling the Pattern of Structural Change in U.S. Meat Demand"** by Giancarlo Moschini and Karl D. Meilke
      *  **Goals of this project:  empirically test for a structural change in the demand for meat in the US and analyse its' nature**
         * Calulate normalized expenditure using log prices and budget shares
         * Estimate the first difference model using OLS and SUR. Compare results 
@@ -23,7 +23,7 @@
         * Conclude that there is no structural change in the model because under the unrestricted model, the new parameter ℎ𝑡, which is no transitive, gave a more correct estimation
 
 ***
-* Replication of **"Modelling trends in food market integration: Method and an application to Tanzanian maize markets"** by Author: Bjorn Van Campenhout
+* ###Replication of **"Modelling trends in food market integration: Method and an application to Tanzanian maize markets"** by Author: Bjorn Van Campenhout
    *  **Goals of this project**:
       * Calculate the correlation of price difference across markets
       * Use loops to calculate AR1 models across each market
